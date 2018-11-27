@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootLiberty
+Implementation-Version: 1.0
+Built-By: HariGolla
+Implementation-Vendor-Id: com.springboot.liberty
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootLiberty
+Created-By: Maven Integration for Eclipse
+
